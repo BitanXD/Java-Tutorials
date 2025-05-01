@@ -10,7 +10,7 @@ public class Demo {
         vals.add(30);
         vals.add(45);
 
-//        for (Object num : nums) System.out.println(num);
+//        for (Object val : vals) System.out.println(num);
 
         System.out.println(vals);
     }
